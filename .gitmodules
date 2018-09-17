@@ -1,0 +1,3 @@
+[submodule "git-cloudconfig-repo"]
+	path = git-cloudconfig-repo
+	url = https://github.com/surekrishna/git-cloudconfig-repo.git
